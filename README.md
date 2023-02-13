@@ -1,7 +1,7 @@
 
 # Imaging with Python
 
-A Python script to generate random gradients. Output is in SVG format and combines two random colours (rgb 0-255) into a random linear gradient.
+A Python script to generate random gradients. Output is in SVG format and the image consists of a combination of two random colours (rgb 0-255) in a random linear gradient.
 
 The Python script will output one gradient file; combine with **10.sh** to generate 10 random gradients.
 
